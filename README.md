@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Dimple
 
-<!--
-**dimplesinghh/dimplesinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML engineer building LLM and multi-agent systems.
 
-Here are some ideas to get you started:
+### Featured projects
+- [arxiv-rag](https://github.com/dimplesinghh/arxiv-rag) — RAG pipeline over arXiv papers
+- [arxiv-agent](https://github.com/dimplesinghh/arxiv-agent) — Agent for research paper discovery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+<a href="https://www.credly.com/badges/d86499b7-6c9e-440e-b782-c6000ee1b2be/public_url">
+  <img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/linkedin_thumb_blob" alt="Claude Certified Architect – Foundations" width="90">
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
